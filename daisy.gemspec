@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
 	s.version = "0.0.1"
 	s.author = "James Cunningham"
 	s.email = "james.earl.3@gmail.com"
-	s.homepage = "http://twice.tranceismylife.com"
+	s.homepage = ""
 	s.platform = Gem::Platform::RUBY
 	s.summary = "A simple distributed computing protocol."
 	s.files = ["lib/daisy.rb"]
